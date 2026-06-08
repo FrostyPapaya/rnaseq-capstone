@@ -1,0 +1,20 @@
+name: capstone
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - salmon
+  - fastqc
+  - multiqc
+  - sra-tools
+  - fastp
+  - r-base=4.3
+  - bioconductor-deseq2
+  - bioconductor-tximport
+  - bioconductor-clusterprofiler
+  - bioconductor-org.mm.eg.db
+  - r-ggplot2
+  - r-rmarkdown
+  - r-dplyr
