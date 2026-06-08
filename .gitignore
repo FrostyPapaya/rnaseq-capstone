@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large sequencing files
+    *.fastq
+    *.fastq.gz
+    *.sra
+    *.bam
+    *.bai
+
+    # Large index files
+    salmon_index/
+
+    # R cache
+    .Rhistory
+    .RData
+    .Rproj.user/
+    __pycache__/
+
+    # OS
+    .DS_Store
+    Thumbs.db
