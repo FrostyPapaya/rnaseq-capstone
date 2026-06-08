@@ -1,0 +1,17 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR5364315_1	/home/aria/rnaseq-capstone/results/qc/SRR5364315_1_fastqc.zip
+FastQC	all_sections	SRR5364315_2	/home/aria/rnaseq-capstone/results/qc/SRR5364315_2_fastqc.zip
+FastQC	all_sections	SRR5364316_1	/home/aria/rnaseq-capstone/results/qc/SRR5364316_1_fastqc.zip
+FastQC	all_sections	SRR5364316_2	/home/aria/rnaseq-capstone/results/qc/SRR5364316_2_fastqc.zip
+FastQC	all_sections	SRR5364317_1	/home/aria/rnaseq-capstone/results/qc/SRR5364317_1_fastqc.zip
+FastQC	all_sections	SRR5364317_2	/home/aria/rnaseq-capstone/results/qc/SRR5364317_2_fastqc.zip
+FastQC	all_sections	SRR5364318_1	/home/aria/rnaseq-capstone/results/qc/SRR5364318_1_fastqc.zip
+FastQC	all_sections	SRR5364318_2	/home/aria/rnaseq-capstone/results/qc/SRR5364318_2_fastqc.zip
+FastQC	all_sections	SRR5364334_1	/home/aria/rnaseq-capstone/results/qc/SRR5364334_1_fastqc.zip
+FastQC	all_sections	SRR5364334_2	/home/aria/rnaseq-capstone/results/qc/SRR5364334_2_fastqc.zip
+FastQC	all_sections	SRR5364335_1	/home/aria/rnaseq-capstone/results/qc/SRR5364335_1_fastqc.zip
+FastQC	all_sections	SRR5364335_2	/home/aria/rnaseq-capstone/results/qc/SRR5364335_2_fastqc.zip
+FastQC	all_sections	SRR5364336_1	/home/aria/rnaseq-capstone/results/qc/SRR5364336_1_fastqc.zip
+FastQC	all_sections	SRR5364336_2	/home/aria/rnaseq-capstone/results/qc/SRR5364336_2_fastqc.zip
+FastQC	all_sections	SRR5364337_1	/home/aria/rnaseq-capstone/results/qc/SRR5364337_1_fastqc.zip
+FastQC	all_sections	SRR5364337_2	/home/aria/rnaseq-capstone/results/qc/SRR5364337_2_fastqc.zip
