@@ -1,0 +1,12 @@
+{
+    "salmon_version": "1.11.4",
+    "index": "salmon_index/",
+    "libType": "A",
+    "mates1": "data/raw/SRR5364337_1.fastq.gz",
+    "mates2": "data/raw/SRR5364337_2.fastq.gz",
+    "threads": "4",
+    "validateMappings": [],
+    "gcBias": [],
+    "output": "data/processed/salmon/SRR5364337",
+    "auxDir": "aux_info"
+}

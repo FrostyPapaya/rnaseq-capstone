@@ -1,0 +1,1 @@
+I mean from what I can see, it looks fine. good sequence quality phred scores, GC content a little bit oddly varied because the shape is a little wonky. there seems to be something wonky with the duplication levels too. i'll accept it intuitively -11th June
