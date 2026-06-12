@@ -1,0 +1,9 @@
+sample,SRRid,tissue,infection,time
+sample_1,SRR5364315,Cerebellum,Influenza,Day8
+sample_2,SRR5364316,Cerebellum,NonInfected,Day0
+sample_3,SRR5364317,Cerebellum,NonInfected,Day0
+sample_4,SRR5364318,Cerebellum,Influenza,Day4
+sample_5,SRR5364334,SpinalCord,Influenza,Day4
+sample_6,SRR5364335,SpinalCord,NonInfected,Day0
+sample_7,SRR5364336,SpinalCord,NonInfected,Day0
+sample_8,SRR5364337,SpinalCord,NonInfected,Day0
